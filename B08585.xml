@@ -1,0 +1,555 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The door open for sinners and the duty of saints to Jesus Christ : fitted to the understanding of the meanest capacity.  In a plain way of question and answer / by Edward Buckler.</title>
+            <author>Buckler, Edward, 1610-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08585</idno>
+            <idno type="STC">Wing B5348A</idno>
+            <idno type="STC">ESTC R215416</idno>
+            <idno type="EEBO-CITATION">69648545</idno>
+            <idno type="OCLC">ocm 69648545</idno>
+            <idno type="VID">184867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184867)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2878:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The door open for sinners and the duty of saints to Jesus Christ : fitted to the understanding of the meanest capacity.  In a plain way of question and answer / by Edward Buckler.</title>
+                  <author>Buckler, Edward, 1610-1706.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Ashwood behind St. Christophers-Church in Thredneedle-Street, the back-side of the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Examinations, questions, etc. --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184867:1" rendition="simple:additions"/>
+            <p>THE Door Open for Sinners, AND THE Duty of Saints TO <hi rend="blackletterType">Ieſus Chriſt:</hi> FITTED To the Underſtanding of the Meaneſt Capacity. In a plain way of <hi>QUESTION</hi> and <hi>ANSWER.</hi>
+            </p>
+            <p>By EDWARD BUCKLER, Preacher of the <hi>Goſpel.</hi>
+            </p>
+            <q>
+               <bibl>1 Cor. 2.2.</bibl>
+               <p>I determined not to know any thing among you, ſave Jeſus Chriſt, and him Crucified.</p>
+               <bibl>1 Cor. 3.2.</bibl>
+               <p>I have fed you with milk, and not with meat, for hitherto ye were not able to bear it, neither yet now are ye able.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Astwood,</hi> behind St. <hi>Chriſtophers-Church</hi> in <hi>Thredneedle-ſtreet,</hi> the back-ſide of the <hi>Royal Exchange.</hi> 1695.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:184867:2"/>
+            <pb facs="tcp:184867:2"/>
+            <head>TO THE READERS That are within my CHARGE.</head>
+            <opener>
+               <salute>Dearly beloved Friends;</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> are a numerous people, amongſt whom the Providence of God (for the ſpace of five years laſt paſſed) hath ſet me to preach the Goſpel of his Son. I have made it my buſineſs to intreat you in Chriſts ſtead, to be reconciled unto God; whom I bleſs from my heart for any ſucceſs that he hath given his Ordinances with you. But the harveſt is great, and the labourer but one, (a weak, a very weak and
+<pb facs="tcp:184867:3"/> an unworthy one) and many of you remain yet ungathered.</p>
+            <p>Two things in the courſe of my Miniſtry I have very much dwelt upon, and in both I have obſerved a great difficulty: One is to perſwade you to ſeek after righteouſneſs, life, and happi<g ref="char:EOLhyphen"/>neſs, out of your ſelves, in Jeſus Chriſt; The other, that whatever you are in your ſelves, there you may find it; the Goſpel freely ten<g ref="char:EOLhyphen"/>dering the greateſt ſinners a gracious Saviour, and the emptieſt ſoul a full Chriſt.</p>
+            <p>And becauſe a continued diſcourſe (in which theſe truths have been delivered unto you) might not poſſibly with eaſe enough get in<g ref="char:EOLhyphen"/>to ſome mens underſtandings, and might with too much ſlip out of moſt mens memories, I have drawn them into a plain, ſhort, and familiar way, to provide againſt both.</p>
+            <p>You may not think that I leave this paper with, and commend it to you, as containing all that you ought, but as informing you of what you firſt and principally muſt know of the My<g ref="char:EOLhyphen"/>ſtery of Salvation by Jeſus Chriſt. And that it may do your ſouls good (which is all the de<g ref="char:EOLhyphen"/>ſign it hath upon you) I ſhall, with it, com<g ref="char:EOLhyphen"/>mend unto you theſe few Directions.</p>
+            <list>
+               <item>1. Lay up the anſwer to every queſtion in your memories, that you may have (at leaſt the ſpeculation) of every truth contained in it.</item>
+               <pb facs="tcp:184867:3"/>
+               <item>2. Turn to every text of Scripture that is quoted, and ſee how it proves that for which it is brought.</item>
+               <item>3. Get (if poſſibly you can) by heart, as well the Scriptures as the Anſwers, that theſe truths appearing to be the truths of Jeſus Chriſt, they may come in with a divine autho<g ref="char:EOLhyphen"/>rity upon your ſouls; which ſhall be the daily prayer of</item>
+            </list>
+            <closer>
+               <signed>Your Servant in the Work of the GOSPEL, <hi>E. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184867:4"/>
+            <pb n="7" facs="tcp:184867:4"/>
+            <head>THE Door Open for Sinners, AND THE Duty of Saints TO <hi rend="blackletterType">Ieſus Chriſt.</hi>
+            </head>
+            <p>Queſt. <hi>WHO made the World, and all Creatures in it?</hi>
+            </p>
+            <p>
+               <hi>Anſw. a</hi> God; who is <hi>b</hi> an Eternal, <hi>c</hi> Infinite, <hi>d</hi> Immutable, <hi>e</hi> Omnipotent, <hi>f</hi> Independent, <hi>g</hi> Holy, <hi>h</hi> Wiſe, <hi>i</hi> Juſt, <hi>k</hi> Gracious, <hi>l</hi> Spiritual <hi>m</hi> Being; Diſtin<g ref="char:EOLhyphen"/>guiſhed into <hi>n</hi> Father, <hi>o</hi> Son and <hi>p</hi> Holy
+<pb n="8" facs="tcp:184867:5"/> Ghoſt, <hi>q</hi> each of which is with the other equally God. [a <hi>Gen.</hi> 1.1. <hi>Act.</hi> 17.24. b <hi>Pſal.</hi> 90.2. 1 <hi>Tim.</hi> 1.17. c <hi>Job</hi> 11.7,8,9. <hi>Pſal.</hi> 139.7. &amp;c. <hi>Jer.</hi> 23.23,24. d <hi>Pſal.</hi> 102.27. <hi>Mal.</hi> 3.6. <hi>Jam.</hi> 1.17. e <hi>Exod.</hi> 6.3. <hi>Job</hi> 42.2. <hi>Pſal.</hi> 115.3. f <hi>Exod.</hi> 3.14. g <hi>Pſal.</hi> 5.4,5. <hi>Iſa.</hi> 6.3. <hi>Hab.</hi> 1.13. h 1 <hi>Tim.</hi> 1.17. <hi>Pſal.</hi> 104.24. <hi>Heb.</hi> 4.13. i <hi>Job</hi> 34.10,11,12. <hi>Pſal.</hi> 145.17. k <hi>Exod.</hi> 34.6,7. <hi>Pſal.</hi> 145.8,9. l <hi>Joh.</hi> 4.24. m <hi>Exod.</hi> 3.14. n <hi>Eph.</hi> 1.3. o <hi>Joh.</hi> 3.16. p <hi>Luke</hi> 11.13. q <hi>Eph.</hi> 1.3. <hi>Rom.</hi> 9.5. <hi>Act.</hi> 5.3,4. 1 <hi>Joh.</hi> 5.7.]</p>
+            <p>Q. <hi>Which were the moſt excellent of all the Creatures that God made?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Angels and Men.</p>
+            <p>Q. <hi>Wherein did the excellency of Man con<g ref="char:EOLhyphen"/>ſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mans excellency was in this, that God created him after his own <hi>r</hi> Image, which conſiſted eſpecially in his Original <hi>ſ</hi> righteouſneſs and holineſs, and rendred him capable of ſerving and enjoying God. [<hi>r Gen.</hi> 1.26. <hi>ſ Epheſ.</hi> 4.24.]</p>
+            <p>Q. <hi>Was eternal happineſs due unto man in his created condition, for that righteouſneſs and holineſs which God endowed him with<g ref="char:EOLhyphen"/>all?</hi>
+            </p>
+            <pb n="9" facs="tcp:184867:5"/>
+            <p>
+               <hi>A.</hi> No otherwiſe then as God had en<g ref="char:EOLhyphen"/>gaged himſelf by Covenant to give it him, in caſe he obeyed the contents of that Co<g ref="char:EOLhyphen"/>nant, as he threatned him with death in caſe of <hi>t</hi> Rebellion. [<hi>t Gen.</hi> 2.17.]</p>
+            <p>Q. <hi>What were the contents of that Cove<g ref="char:EOLhyphen"/>nant?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That the Law, which God then gave Man, ſhould be perfectly obeyed.</p>
+            <p>Q. <hi>What Law was that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It was the ſumm of thoſe ten Com<g ref="char:EOLhyphen"/>mandments which God afterward repeat<g ref="char:EOLhyphen"/>ed to the <hi>Jews;</hi> ſo that, though in fewer words, and with leſs noiſe, <hi>Adam</hi> had as full a charge in the <hi>u Garden</hi> as <hi>Iſrael</hi> had from Mount * <hi>Sinai.</hi> [u <hi>Gen.</hi> 2.17. * <hi>Exod.</hi> 20.1,2, &amp;c.]</p>
+            <p>Q. <hi>Did God covenant with all mankind in covenanting with</hi> Adam?</p>
+            <p>
+               <hi>A.</hi> Yes, for we were all in him, <hi>Legally,</hi> as in our repreſentative; and <hi>Naturally,</hi> as in our common root.</p>
+            <p>Q. <hi>Did we keep this Covenant that God made with us, or did we break it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We did <hi>x</hi> break it almoſt as <hi>y</hi> ſoon as we entred into it. [x <hi>Gen.</hi> 3.6. <hi>Eccleſ.</hi> 9.27. y <hi>Pſal.</hi> 49.12.]</p>
+            <p>Q. <hi>What caſe are we in by reaſon of this breach.</hi>
+            </p>
+            <pb n="10" facs="tcp:184867:6"/>
+            <p>
+               <hi>A.</hi> We are all <hi>z</hi> ſinners, and ſo ſubject to all that ſin deſerves, the <hi>a</hi> Curſe of the Law, the <hi>b</hi> Wrath of God, and <hi>c</hi> Eternal damnation. [z <hi>Rom.</hi> 3.9,10. &amp;c. <hi>Rom.</hi> 5.12. a <hi>Gal.</hi> 3.10. b <hi>Eph.</hi> 2.3. c <hi>Rom.</hi> 6.23.]</p>
+            <p>Q. <hi>What way is there now for you (as the caſe now ſtands) to be delivered from all this, and to be brought into a condition of Grace and life?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I muſt believe in the Lord Jeſus Chriſt, and I ſhall be ſaved, <hi>Act.</hi> 16.31.</p>
+            <p>Q. <hi>Are you ſure that if you believe, you ſhall be ſaved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am ſure of it; foraſmuch as the Goſpel <hi>d</hi> all along holds out Salvation by Chriſt in a way of believing. [<hi>d John</hi> 3.14,16. <hi>Acts</hi> 13.39. <hi>Rom.</hi> 3.28.]</p>
+            <p>Q. <hi>What is it to believe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To believe, is <hi>e</hi> to receive, and ac<g ref="char:EOLhyphen"/>cept of Jeſus Chriſt, as he is <hi>f</hi> Freely ten<g ref="char:EOLhyphen"/>dred in the Goſpel <hi>g</hi> to ſinners, and to <hi>h</hi> truſt in him only for Life and Salvati<g ref="char:EOLhyphen"/>on. [e <hi>John</hi> 1.11,12. <hi>Joh.</hi> 5.43. <hi>Col.</hi> 2.6. 1 <hi>John</hi> 5.12. f <hi>Iſa.</hi> 55.1. <hi>John</hi> 3.14. <hi>Apoc.</hi> 22.17. g <hi>Mar.</hi> 2.17. h <hi>Pſalm</hi> 2.12. <hi>Eph.</hi> 1.13.]</p>
+            <p>Q. <hi>But have you any ground to think that Chriſt doth belong unto you?</hi>
+            </p>
+            <pb n="11" facs="tcp:184867:6"/>
+            <p>
+               <hi>A.</hi> The Goſpel doth not any where ſay the contrary, and it offers Chriſt indefi<g ref="char:EOLhyphen"/>nitely to <hi>i</hi> all that are within the ſound of it, and conſequently to me alſo. [i <hi>Mar.</hi> 16.15. <hi>Iſa.</hi> 55.1. <hi>Apoc.</hi> 22.17.]</p>
+            <p>Q. <hi>But are you ſufficiently prepared, and duly qualified to receive Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I know my ſelf to be a <hi>k</hi> ſinner, and in a loſt condition, and I ſee nothing to the contrary in the Goſpel, but that this is enough. [k <hi>Mark</hi> 2.17. l <hi>Luke</hi> 19.10. 1 <hi>Tim.</hi> 1.15.]</p>
+            <p>Q. <hi>Do you think that Chriſt is tendered in the Goſpel to Sinners, as Sinners?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I do think ſo, and hope upon ſuffi<g ref="char:EOLhyphen"/>cient grounds.</p>
+            <p>Q. <hi>What grounds I pray you?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Under that notion is Chriſt tende<g ref="char:EOLhyphen"/>red to me in the Goſpel, under which I have <hi>m</hi> need of him; now I have need of Chriſt meerly as a ſinner; I have need of a <hi>n</hi> Saviour as loſt, of a <hi>o</hi> Phyſitian as ſick, of a <hi>p</hi> Fountain opened as unclean, of <hi>q</hi> Life, as dead in Treſpaſſes and ſins. [<hi>m Heb.</hi> 7.25. <hi>Mar.</hi> 2.17. <hi>n Luke</hi> 19.10. <hi>o Mar.</hi> 2.17. <hi>p Zach.</hi> 13.1. <hi>q John</hi> 14.6. 1 <hi>John</hi> 5.12. <hi>Eph.</hi> 2.1.]</p>
+            <p>Q. <hi>What other grounds have you?</hi>
+            </p>
+            <pb n="12" facs="tcp:184867:7"/>
+            <p>
+               <hi>A.</hi> Chriſt muſt be offered unto me, ei<g ref="char:EOLhyphen"/>ther as a ſinner, or as righteous, or as a middle perſon between both: Now ſuch middle perſons there are none; the righteous have Chriſt already, how came they elſe to be righteous? It re<g ref="char:EOLhyphen"/>mains then, that Jeſus Chriſt is offered to me as a ſinner.</p>
+            <p>Q. <hi>It's poſſible it may be neither ſo, nor ſo; for do you not find in the Goſpel, that Chriſt is tendered to ſinners ſo and ſo quali<g ref="char:EOLhyphen"/>fied, diſpoſed, and fitted to receive him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Chriſt doth not find ſinners fit, but makes them ſo, and I find no previous diſ<g ref="char:EOLhyphen"/>poſitions or preparations required in the Goſpel, which I muſt neceſſarily have wrought in me, before I may lay hold up<g ref="char:EOLhyphen"/>on Chriſt as mine.</p>
+            <p>Q. <hi>Muſt you not be humbled for your ſin be<g ref="char:EOLhyphen"/>fore you may believe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. I may be humbled to a great de<g ref="char:EOLhyphen"/>gree of Humiliation, and yet never come to believe at all <hi>r.</hi>
+            </p>
+            <p>2. Such ſinners as have been humbled, and afterwards have believed, were not entertained of Chriſt, becauſe humbled, but becauſe ſinners. For,</p>
+            <p>3. Some Sinners have been entertained by Chriſt, of whoſe being humbled before
+<pb n="13" facs="tcp:184867:7"/> we hear nothing in the Goſpel, but much to perſwade us to the contrary <hi>s,</hi> but in coming they were.</p>
+            <p>4. Humiliation (or what ever elſe I am capable of) before believing, is <hi>t</hi> a ſin: [r <hi>Mat.</hi> 27.4,5. ſ <hi>Acts</hi> 9.3,4,5,6. <hi>Acts</hi> 26.13,14, &amp;c. <hi>Acts</hi> 16.14. t <hi>Titus</hi> 1.15.</p>
+            <p>Q. <hi>But is not thirſting after Chriſt neceſſa<g ref="char:EOLhyphen"/>rily pre-required? Muſt not a ſinner</hi> * <hi>thirſt before he come?</hi> [* <hi>Iſa.</hi> 55.1. <hi>Apoc.</hi> 22.17.]</p>
+            <p>
+               <hi>A.</hi> Thoſe Scriptures, where ſuch as thirſt are invited, are not to be expound<g ref="char:EOLhyphen"/>ed of thirſting for Chriſt, but of thirſting for happineſs, without pitching upon Je<g ref="char:EOLhyphen"/>ſus Chriſt for it; and ſo they are directi<g ref="char:EOLhyphen"/>ons whither ſuch as thirſt ſhould come, not limitations, that none ſhall come but ſuch as thirſt.</p>
+            <p>Q. <hi>What reaſon can you give of this Ex<g ref="char:EOLhyphen"/>poſition, that it was not a thirſting for Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is reaſon enough in the text it ſelf, (<hi>Iſa.</hi> 55.1,2.) they thirſted for happineſs in that which they laid out and laboured for, which was not Chriſt, for he is bread, and doth ſatisfie.</p>
+            <p>Q. <hi>But after whatever the thirſting be, is it
+<pb n="14" facs="tcp:184867:8"/> not a condition upon which Chriſt is tendered?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By no means; for that Chriſt ſhould be tendered upon any condition at all, is not ſo ſuitable to the Free-Grace of God, who <hi>u</hi> loves us freely <hi>x,</hi> gives us Chriſt free<g ref="char:EOLhyphen"/>ly, <hi>y</hi> ſaves us freely. [u <hi>Rom.</hi> 9.11. x <hi>Joh.</hi> 3.16. y <hi>Rom.</hi> 6.23. <hi>Eph.</hi> 2.8. <hi>Tit.</hi> 3.5.</p>
+            <p>Q. <hi>But however may not thirſting be lookt upon as a neceſſary diſpoſition, without which a ſinner ought not to believe, or to lay hold up<g ref="char:EOLhyphen"/>on Chriſt as his?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If it ſhould be lookt upon as ſuch a diſpoſition, there would follow divers abſurdities.</p>
+            <p>Q. <hi>What abſurdities would follow?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It would follow that there be ſome univerſal commands of God which ſome men ought not to obey; for that ſinners ſhould believe is an <hi>z</hi> univerſal <hi>a</hi> command of God. [z <hi>Mar.</hi> 16.15. a 1 <hi>John</hi> 3.23.]</p>
+            <p>Q. <hi>What too?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It would follow, that (at leaſt) in ſome men that hear the Goſpel, unbelief is no ſin, contrary to <hi>Joh.</hi> 3.19. <hi>Mat.</hi> 23.37. <hi>John</hi> 5.40.]</p>
+            <p>Q. <hi>What abſurdity elſe would follow?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It would alſo follow, that to ſome men (to whom Chriſt is tendered) to believe is not duty, or if it be, they may
+<pb n="15" facs="tcp:184867:8"/> take time to perform it.</p>
+            <p>Q. <hi>But ſuppoſe a ſinner not thirſting ought to believe, yet, is not thirſting ſuch a diſpoſiti<g ref="char:EOLhyphen"/>on without which he cannot believe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, God can and <hi>b</hi> many times doth give in Faith and Chriſt without ſuch a pre-diſpoſing of the ſinner. [b <hi>Iſa.</hi> 65.1. <hi>Rom.</hi> 10.20.]</p>
+            <p>Q. <hi>Have you any examples of it in the Go<g ref="char:EOLhyphen"/>ſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, the example of <hi>c Matthew, d Zacheus, e Paul, f Lydia,</hi> the ſtory of whoſe converſion is ſo ſet down, that we have a warrant to conclude that their faith in Chriſt was preceded by their thirſting af<g ref="char:EOLhyphen"/>ter him. [c <hi>Luke</hi> 5.27,28. d <hi>Luke</hi> 19.5,6,10. e <hi>Acts</hi> 9.3,4. 1 <hi>Tim.</hi> 1.13,14,15,16. f <hi>Acts</hi> 16.14.</p>
+            <p>Q. <hi>Is it your opinion then that Chriſt is ten<g ref="char:EOLhyphen"/>dered to an empty ſoul?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, to an empty Soul, as to any thing that is good, and this plainly held out in the Goſpel <hi>g</hi> which declareth all our good to come in with <hi>h</hi> Chriſt, who is a <hi>i</hi> full Chriſt, that he may ſupply <hi>k</hi> us. [g <hi>Iſa.</hi> 55.1,2. <hi>Apoc.</hi> 3.17,18. h <hi>Eph.</hi> 1.3. <hi>John</hi> 15.5. 1 <hi>John</hi> 5.11,12. i <hi>Col.</hi> 1.19. <hi>Col.</hi> 2.10. k <hi>John</hi> 1.16.]</p>
+            <p>Q. <hi>Do you think that any ſinner (ſuppoſe a
+<pb n="16" facs="tcp:184867:9"/> notorious whoremonger, drunkard,</hi> &amp;c.) <hi>when Chriſt is preached to him, ought to believe, and to lay hold upon him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and if ſuch a one do not believe, it is his ſin.</p>
+            <p>Q. <hi>How do you prove that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I prove it by theſe arguments?</p>
+            <p>1. Chriſt is tendered to the <hi>l</hi> greateſt of ſinners, yea, even to <hi>m</hi> thoſe that with wicked hand did crucifie and ſlay him. [l 1 <hi>Tim.</hi> 1.15. m <hi>Acts</hi> 3.15,25,26.]</p>
+            <p>2. When Chriſt is tendered, the charge is to receive him <hi>n</hi> preſently. [n <hi>Pſal.</hi> 2.10,12. <hi>Pſal.</hi> 95.7. <hi>Heb.</hi> 3.7,15. <hi>Heb.</hi> 4.7,11.]</p>
+            <p>3. Whatever may be a reaſon why a great ſinner ſhould lay hold on Chriſt at all, the ſame is a reaſon why he ſhould do it preſently.</p>
+            <p>Q. <hi>Have ſuch ſinners any encouragements from the Goſpel to come to Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, very many, and very ſweet ones.</p>
+            <p>Q. <hi>Can you give me an account what thoſe many and ſweet encouragments are?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> This is one, that ſuch great and no<g ref="char:EOLhyphen"/>torious ſinners have been graciouſly enter<g ref="char:EOLhyphen"/>tained of Chriſt heretofore, as <hi>Zacheus, Paul, Magdalen,</hi> &amp;c.</p>
+            <p>Q. <hi>What is a ſecond encouragement?</hi>
+            </p>
+            <pb n="17" facs="tcp:184867:9"/>
+            <p>
+               <hi>A.</hi> That ſuch and others <hi>n</hi> indefinitely are ſtill invited to come unto Chriſt, and many arguments are uſed to make the in<g ref="char:EOLhyphen"/>vitation take. [n <hi>Iſa.</hi> 55.1. <hi>Apoc.</hi> 22.17.</p>
+            <p>Q. <hi>What arguments are they?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That they ſhall find <hi>o</hi> Reſt unto their Souls, they ſhall have <hi>p</hi> Pardon, <hi>q</hi> Peace, <hi>r</hi> Eternal Happineſs, <hi>ſ</hi> no condemnation. And that until they do come to Chriſt, they are <hi>t</hi> dead, and the wrath of God a<g ref="char:EOLhyphen"/>bides upon them. [o <hi>Mat.</hi> 11.28,29. p <hi>Acts</hi> 13.39. <hi>Eph.</hi> 1.7. q <hi>Eph.</hi> 2.14. <hi>Rom.</hi> 5.1. r <hi>John</hi> 3.16. 1 <hi>John</hi> 5.11,12. ſ <hi>Rom.</hi> 8.1. t <hi>Epheſ.</hi> 2.1. <hi>John</hi> 5.40. <hi>John</hi> 3.36.]</p>
+            <p>Q. <hi>What is a third encouragement?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That Jeſus Chriſt did never yet caſt out any ſinner that did come unto him, and hath aſſured us that he never will, <hi>John</hi> 6.37.</p>
+            <p>Q. <hi>Is there no other encouragement beſide theſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, this is another, and a great one, that Jeſus Chriſt is abundantly <hi>u</hi> able, and hath declared himſelf exceeding willing to ſave ſinners, yea, the greateſt. [u <hi>Heb.</hi> 7.25.]</p>
+            <pb n="18" facs="tcp:184867:10"/>
+            <p>Q. <hi>Whereby doth the willingneſs of Chriſt to ſave ſinners ſo exceedingly appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It appears as many ways as it is poſſi<g ref="char:EOLhyphen"/>ble to have a willingneſs to any thing diſ<g ref="char:EOLhyphen"/>covered — in particular,</p>
+            <p>
+               <hi>By his</hi>
+               <list>
+                  <item>1. <hi>Expreſſions.</hi>
+                  </item>
+                  <item>2. <hi>Affections.</hi>
+                  </item>
+                  <item>3. <hi>Actions.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Q. <hi>By what expreſſions of his doth his will<g ref="char:EOLhyphen"/>ingneſs to ſave ſinners appear?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his <hi>x</hi> importunity in calling up<g ref="char:EOLhyphen"/>on us to believe in him for Salvation, and his <hi>y</hi> Complainings of us when we refuſe ſo to do. [x <hi>Cant.</hi> 5.2. <hi>Apoc.</hi> 3.20. y <hi>Mat.</hi> 23.37. <hi>Joh.</hi> 5.40. <hi>Eſa.</hi> 65.2.]</p>
+            <p>Q. <hi>By what Affections of his doth Chriſt declare his willingneſs to ſave Sinners?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his ardent <hi>z</hi> longings to accom<g ref="char:EOLhyphen"/>pliſh the work of our Salvation; by his <hi>a</hi> Joy when we accept of it, and by his <hi>b</hi> Grief when we refuſe it. [z <hi>Luke</hi> 12.50. a <hi>Luke</hi> 15.5,9,20,23. b <hi>Mar.</hi> 3.5.]</p>
+            <p>Q. <hi>By what Actions of Chriſt is his willing<g ref="char:EOLhyphen"/>neſs to ſave Sinners diſcovered?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By his willingneſs to come down <hi>c</hi> from Heaven, and making the Salvation of Sinners his <hi>d</hi> great buſineſs into the
+<pb n="19" facs="tcp:184867:10"/> world, and by his willingneſs <hi>e</hi> to ſuffer what their ſins deſerved when he was up<g ref="char:EOLhyphen"/>on the earth. [c <hi>John</hi> 16.28. <hi>Heb.</hi> 10.7. d 1 <hi>Tim.</hi> 1.15. <hi>Mat.</hi> 20.28. <hi>Luke</hi> 19.10. <hi>John</hi> 10.10. e <hi>John</hi> 10.18. <hi>Phil.</hi> 2.7.]</p>
+            <p>Q. <hi>You have given me a ſufficient account of the free tender of Jeſus Chriſt in the Go<g ref="char:EOLhyphen"/>ſpel to every ſort of Sinners, and of the en<g ref="char:EOLhyphen"/>couragement they have to come unto Chriſt for Salvation — I would now know of you, that ſince we are by nature in a ſtate of dam<g ref="char:EOLhyphen"/>nation, how comes it to paſs that there is this way (of life and happineſs by Chriſt) yet left us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We are indebted for it to the <hi>f</hi> Eter<g ref="char:EOLhyphen"/>nal and free love and favour of God, who <hi>g</hi> ordained us to it before the World began. [f <hi>Joh.</hi> 3.16. 1 <hi>John</hi> 4.9,10. g <hi>Epheſ.</hi> 1.4,5. 1 <hi>Theſ.</hi> 5.9.]</p>
+            <p>Q. <hi>Are all Sinners ordained to life in and by Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, ſome in juſtice are paſſed by. [<hi>Rom.</hi> 9.13,22. <hi>Jude</hi> 13.]</p>
+            <p>Q. <hi>May not this diſcourage you as to be<g ref="char:EOLhyphen"/>lieving in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; it ought not to diſcourage me, for as much as God tendereth Chriſt to all, but doth not diſcover their particu<g ref="char:EOLhyphen"/>lar reprobation to any.</p>
+            <pb n="20" facs="tcp:184867:11"/>
+            <p>Q. <hi>But how can it ſtand with God's juſtice to ſave you by Chriſt, ſince the wages of your ſin is death?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Very well; becauſe this wages was <hi>h</hi> willingly received by Chriſt, and ſo <hi>i</hi> ju<g ref="char:EOLhyphen"/>ſtice is fully ſatisfied by him <hi>k</hi> our ſurety, although not by us ſinners who are the principals. [h <hi>John</hi> 10.18. <hi>Eſa.</hi> 53.5. 1 <hi>Cor.</hi> 15.3. i <hi>Mat.</hi> 3.17. k <hi>Heb.</hi> 7.22.]</p>
+            <p>Q. <hi>Was Jeſus Chriſt then a man, that he was capable of ſuffering and dying?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jeſus Chriſt was Man. [<hi>John</hi> 1.14. <hi>Heb.</hi> 2.14,15,17.]</p>
+            <p>Q. <hi>Had he no ſins of his own, that he could be accepted to ſuffer for the ſins of others?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Jeſus Chriſt was free from all Sin, both <hi>l</hi> Original and <hi>m</hi> Actual. [l <hi>Luk.</hi> 1.35. m <hi>Mat.</hi> 3.15. <hi>Heb.</hi> 7.26. 1 <hi>Pet.</hi> 2.22.]</p>
+            <p>Q. <hi>Could the ſufferings of one man (how ſinleſs and holy ſoever) ſatisfie God's juſtice for the ſins of ſo many?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If Chriſt had been only Man, he could not have done it, but Chriſt was alſo <hi>n</hi> God as well as Man, which made his ſufferings of an <hi>o</hi> infinite value. [n <hi>John</hi> 1.1. <hi>Rom.</hi> 9.5. 0 <hi>Act.</hi> 20.28.]</p>
+            <p>Q. <hi>How do the ſufferings of Chriſt be<g ref="char:EOLhyphen"/>come yours?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By God's free and gracious impu<g ref="char:EOLhyphen"/>tation.
+<pb n="21" facs="tcp:184867:11"/>
+[2 <hi>Cor.</hi> 5.21. <hi>Rom.</hi> 3.24,25.]</p>
+            <p>Q. <hi>But is there nothing required to Salva<g ref="char:EOLhyphen"/>tion, but that ſin be ſuffered for?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; an abſolute and a perfect <hi>p</hi> Righteouſneſs, which is alſo in <hi>q</hi> Chriſt, and in <hi>r</hi> none elſe, and it is in Chriſt for <hi>ſ</hi> us, God graciouſly imputing it unto us. [p 1 <hi>Cor.</hi> 6.9. <hi>Rom.</hi> 5.17. q <hi>Mat.</hi> 3.15. <hi>Heb.</hi> 7.26. 1 <hi>Pet.</hi> 2.22. r <hi>Eccleſ.</hi> 7.20. ſ 1 <hi>Cor.</hi> 1.30. 2 <hi>Cor.</hi> 5.21. <hi>Phil.</hi> 3.9.]</p>
+            <p>Q. <hi>Can you believe in this Chriſt, and ſo partake of the benefits that come by him, upon your own ſtrength?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No; <hi>t</hi> Faith is the gift of God. [t <hi>Jam.</hi> 1,17. <hi>Eph.</hi> 2.8. <hi>Phil.</hi> 1.29. <hi>Acts</hi> 18.27.]</p>
+            <p>Q. <hi>Why then is the Gospel Preached, and why are ſinners by it called upon to believe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe the ſame Goſpel which God appoints to call upon ſinners to be<g ref="char:EOLhyphen"/>lieve, is God's ordinary <hi>u</hi> Inſtrument to work faith in them. [u <hi>Rom.</hi> 10.17. <hi>Joh.</hi> 5.25.]</p>
+            <p>Q. <hi>What place hath Faith in the buſineſs of your Salvation, and in what ſenſe is it ſaid to juſtifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Faith is only an Inſtrument of God's forming in us, and is ſaid to juſtifie us on<g ref="char:EOLhyphen"/>ly in a relative ſenſe, as it apprehends
+<pb n="22" facs="tcp:184867:12"/> Chriſt, and no otherwiſe. — Our life and happineſs being in the object, not in the act, in Chriſt, not in believing.</p>
+            <p>Q. <hi>Do you think you do well to lay the whole work of your Salvation thus upon the Free Grace of God in Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I know I do well, becauſe the Goſpel lays it <hi>x</hi> all there; and whoſoever doth not ſeek Salvation in this <hi>y</hi> way, ſhall ne<g ref="char:EOLhyphen"/>ver find it. [x <hi>Acts</hi> 4.12. 1 <hi>Cor.</hi> 3.11. y <hi>John</hi> 14.6.]</p>
+            <p>Q. <hi>What if a wicked man give over his ſin<g ref="char:EOLhyphen"/>ful courſes, (as to be drunk no more, ſwear no more,</hi> &amp;c.) <hi>will not this ſave him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, it will not; for were it poſſi<g ref="char:EOLhyphen"/>ble for a man to ſin but once, and ever af<g ref="char:EOLhyphen"/>terward to live as innocently as <hi>Adam</hi> be<g ref="char:EOLhyphen"/>fore his fall, yet would not this ſave him.</p>
+            <p>Q. <hi>What is your reaſon for this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> My reaſon is, becauſe that one ſin deſerves <hi>z</hi> Hell, and ſhall not be remitted without <hi>a</hi> ſatisfaction. [z <hi>Rom.</hi> 6.23. <hi>Gal.</hi> 3.10. a <hi>Exod.</hi> 34.7.]</p>
+            <p>Q. <hi>But if a ſinner forſake his ſins, and withall heartily repent him of them, is it not enough to ſave him?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is not; for a man not brought to Chriſt, is yet under the <hi>b</hi> firſt Covenant, (that of Works) where all the repen<g ref="char:EOLhyphen"/>tance
+<pb n="23" facs="tcp:184867:12"/> in the world goes for nothing. [b <hi>Gal.</hi> 4.24.]</p>
+            <p>Q. <hi>How do you prove that Repentance under the firſt Covenant, and conſequently that the Repentance of a Man out of Chriſt, goes for nothing?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Becauſe true and acceptable repen<g ref="char:EOLhyphen"/>tance is a Grace of the <hi>c</hi> Goſpel. The Law gives no grace to repent, it makes no promiſe to repentance; yea, it gives not the leaſt ſpace to repent, the <hi>d</hi> Tenor of it is, Sin and dye. [c <hi>Acts</hi> 5.31. <hi>Ezek.</hi> 36.26. <hi>Zach.</hi> 12.10. d <hi>Gen.</hi> 2.17. <hi>Jude</hi> 6.]</p>
+            <p>Q. <hi>Suppoſe then that men cannot come up as high as to believe, is it all one, whether they be Drunkards or Sober, Covetous or Liberal,</hi> &amp;c?</p>
+            <p>
+               <hi>A.</hi> As to their Eternal Condition it is all one, for to come ſhort of Chriſt is to come ſhort of <hi>e</hi> Salvation; yet have we ground to <hi>f</hi> believe, that the greateſt ſin<g ref="char:EOLhyphen"/>ners ſhall have in Hell the greateſt tor<g ref="char:EOLhyphen"/>ments. [e <hi>Acts</hi> 4.12. f <hi>Mat.</hi> 11.22,24. &amp; <hi>Mat.</hi> 23.14.</p>
+            <p>Q. <hi>But what if a man do not only leave his ſins, but doth alſo ſet himſelf to perform good duties, ſhall not ſuch a one be ſaved without believing?</hi>
+            </p>
+            <pb n="24" facs="tcp:184867:13"/>
+            <p>
+               <hi>A.</hi> No; becauſe no performance of an unbeliever can be <hi>g</hi> good; the Tree muſt be good, or elſe the <hi>h</hi> Fruit cannot, and no man is a good Tree, but he that is in<g ref="char:EOLhyphen"/>grafted into <hi>i</hi> Chriſt, who is our <hi>k</hi> Life; and all works that do not flow from this Life are dead works. Moreover, if the works of ſuch men were good, yet they do not make amends for former ſins, which put them under the <hi>l</hi> curſe. [g <hi>Tit.</hi> 1.15. h <hi>Mat.</hi> 7.18. <hi>Mat.</hi> 12.33. i <hi>Iſa.</hi> 61.3. <hi>John</hi> 15.2,4. k <hi>Col.</hi> 3.4. 1 <hi>John</hi> 5.12. l <hi>Gal.</hi> 3.10.</p>
+            <p>Q. <hi>May we not then endeavour after Life and happineſs by our own performances?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By no means: For as we ſhall ne<g ref="char:EOLhyphen"/>ver attain unto it in this wrong <hi>m</hi> way, ſo it ſeems to render us more uncapable of attaining it in the right way (which is <hi>n</hi> Chriſt) than other <hi>o</hi> ſinners. [m <hi>Rom.</hi> 3.20. <hi>Rom.</hi> 8.3,4. n <hi>Rom.</hi> 8.3,4. <hi>John</hi> 14.6. o <hi>Rom.</hi> 9.30,31,32. <hi>Rom.</hi> 10.3. <hi>Mat.</hi> 21.31.]</p>
+            <p>Q. <hi>Well, the works of natural men being excluded from being cauſes of Salvation, what ſay you to the Duties and good Works of the Saints? Do you exclude them al<g ref="char:EOLhyphen"/>ſo?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, I exclude the beſt duties of the
+<pb n="25" facs="tcp:184867:13"/> Saints themſelves, who muſt firſt be ſaved, before they can do any <hi>p</hi> good duty. — Neither are the performances of the Saints <hi>q</hi> perfectly good, nor <hi>r</hi> properly their own, nor <hi>ſ</hi> beneficial to God, nor proportiona<g ref="char:EOLhyphen"/>ble to that <hi>t</hi> exceeding great reward which they ſhall receive. [p <hi>Mat.</hi> 7.18. <hi>Eph.</hi> 2.10. q <hi>Eccleſ.</hi> 7.20. <hi>James</hi> 3.2. r <hi>John</hi> 15.5. 2 <hi>Cor.</hi> 3.5. ſ <hi>Job</hi> 35.7. <hi>Job</hi> 22.3. <hi>Pſal.</hi> 16.2. <hi>Rom.</hi> 11.35. t <hi>Gen.</hi> 15.1.]</p>
+            <p>Q. <hi>Why then are believers ſo often preſſed unto duties?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Not that by them they might in part, or in whole, procure their Salvati<g ref="char:EOLhyphen"/>on, there being many cauſes of the duties of the Saints, though this be none.</p>
+            <p>Q. <hi>Can you give me a distinct account what thoſe cauſes are?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They may (I ſuppoſe) be conſi<g ref="char:EOLhyphen"/>dered under a Threefold relation,</p>
+            <p>
+               <hi>Viz.</hi> To
+<list>
+                  <item>1. <hi>God.</hi>
+                  </item>
+                  <item>2. <hi>Our Neighbours.</hi>
+                  </item>
+                  <item>3. <hi>Our ſelves.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Q. <hi>Why are the Saints to perform good Du<g ref="char:EOLhyphen"/>ties in relation to God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are to perform them,</p>
+            <pb n="26" facs="tcp:184867:14"/>
+            <p>That
+<list>
+                  <item>1. Gods <hi>u</hi> glory may be advanced.</item>
+                  <item>2. His * Will obeyed.</item>
+                  <item>3. His <hi>x</hi> Free Grace honoured. [u <hi>Mat.</hi> 5.16. <hi>Joh.</hi> 15.8. <hi>Phil.</hi> 1.11. * 1 <hi>Theſ.</hi> 4.3. x <hi>Titus</hi> 2.11.]</item>
+               </list>
+            </p>
+            <p>Q. <hi>Why ought the Saints to perform good Duties in relation to their Neighbours?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That they may
+<list>
+                  <item>1. Be profitable by their <hi>y</hi> ex<g ref="char:EOLhyphen"/>ample. [y <hi>Tit.</hi> 2.7.]</item>
+                  <item>2. Gain upon thoſe that be <hi>z</hi> without. [z 1 <hi>Pet.</hi> 3.1.]</item>
+                  <item>3. Avoid <hi>a</hi> ſcandal. [a <hi>Rom.</hi> 2.24.]</item>
+                  <item>4. Stop the <hi>b</hi> Adverſaries mouths. [b 1 <hi>Pet.</hi> 2.15. &amp; 3.16.</item>
+               </list>
+            </p>
+            <p>Q. <hi>Why in relation to our ſelves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 1. That we may not
+<list>
+                  <item>1. Defile <hi>c</hi> Gods Tem<g ref="char:EOLhyphen"/>ple. [c 1 <hi>Cor.</hi> 6.19.]</item>
+                  <item>2. Grieve <hi>d</hi> Gods Spi<g ref="char:EOLhyphen"/>rit. [d <hi>Eph.</hi> 4.30.]</item>
+               </list>
+            </p>
+            <p>
+               <hi>A.</hi> 2. That we may
+<list>
+                  <item>1. Walk as <hi>e</hi> Saints ought. [e <hi>Rom.</hi> 8.1. 1 <hi>John</hi> 2.6.]</item>
+                  <item>2. Anſwer the end of our <hi>f</hi> Election. [f <hi>Eph.</hi> 1.4. &amp; 2.10</item>
+                  <item>3. Have ſome evidence of our Faith, <hi>g</hi> beſides what ſhines from its own light. [g <hi>James</hi> 2.26.]</item>
+               </list>
+            </p>
+            <pb n="27" facs="tcp:184867:14"/>
+            <p>Q. <hi>If Salvation be thus built upon the free Grace of God in Chriſt, will not men turn li<g ref="char:EOLhyphen"/>centious, and wallow in ſin, that Grace may abound?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> As no men ought <hi>h</hi> to do it, ſo they that are indeed gracious <hi>i</hi> cannot. Chriſt in us being not only <hi>k</hi> the Hope of Glory, but the Fountain alſo of <hi>l</hi> Grace and Ho<g ref="char:EOLhyphen"/>lineſs; not only dying for us as a Prieſt, but alſo living in us, and ruling over us as a King. [h <hi>Rom.</hi> 6.1. i <hi>Rom.</hi> 6.2. 2 <hi>Cor.</hi> 5.17. <hi>Titus</hi> 2.11,12. k <hi>Col.</hi> 1.27. l 1 <hi>Cor.</hi> 1.30.</p>
+            <p>Q. <hi>But what if men pretend to believe, and yet walk in the ſame ſinful courſes that other wicked men do, what is to be thought of ſuch?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We have no warrant to think of them otherwiſe than as meer pretenders to faith in Chriſt <hi>m,</hi> for the Goſpel doth not only aſſure us that our Salvation is <hi>n</hi> of Faith, that it might be by Grace, but it aſ<g ref="char:EOLhyphen"/>ſures us alſo, that it is of a <hi>o</hi> working and lively Faith, that we cannot diſcover our ſelves to be graceleſs. [m 1 <hi>John</hi> 2.6. n <hi>Rom.</hi> 4.16. o <hi>James</hi> 2.14,17,20,24,26.]</p>
+            <p>Q. <hi>I ſee you are competently acquainted with the Myſtery of Salvation by Free-grace
+<pb n="28" facs="tcp:184867:15"/> in Chriſt, tell me now what is the duty of ſuch perſons who are brought into a condition of Life and Happineſs by it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is their duty to obey from <hi>p</hi> the heart, whatever <hi>q</hi> ſhall appear to be the mind and will of God. [p <hi>Rom.</hi> 6.17. q <hi>Matth.</hi> 6.10.]</p>
+            <p>Q. <hi>Is it the mind of God that the Saints ſhould do any duties at all? Doth not their condition of Grace in Chriſt ſet them above and beyond duties?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Saints Triumphant are not a<g ref="char:EOLhyphen"/>bove <hi>r</hi> Duties, much leſs are the higheſt of them that are yet Militant here below. [r <hi>Matth.</hi> 6.10.]</p>
+            <p>Q. <hi>How do you make this good?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From the holy Scriptures, where we find that the end of our <hi>ſ</hi> Election, <hi>t</hi> Redemption, <hi>u</hi> Vocation, and of * Gods Free-Grace, in all the expreſſions of it to<g ref="char:EOLhyphen"/>wards us, is Duty and Service, as well as enjoyment, and that the Saints <hi>x</hi> are preſ<g ref="char:EOLhyphen"/>ſed to it. [ſ <hi>Eph.</hi> 1.4. &amp; 2.10. t <hi>Luke</hi> 1.74,75. u <hi>Gal.</hi> 5.13,14. * 1 <hi>Theſ.</hi> 4.7. x <hi>Tit.</hi> 2.11,12. 1 <hi>Pet.</hi> 2.9.]</p>
+            <p>Q. <hi>What ſhould be the Saints great motive to ſet them upon the Duties which God hath commanded them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Incomprehenſible <hi>x</hi> Love and
+<pb n="29" facs="tcp:184867:15"/> 
+               <hi>y</hi> Free-grace of God in making them Saints, it being the way of the Goſpel to fetch perſwaſions from <hi>z</hi> Mercy to Du<g ref="char:EOLhyphen"/>ty. [x <hi>Eph.</hi> 2.4. <hi>John</hi> 3.16. <hi>Apoc.</hi> 1.5,6. 2 <hi>Cor.</hi> 5.14. y <hi>Eph.</hi> 2.8. <hi>Rom.</hi> 3.24. z <hi>Rom.</hi> 12.1,2. <hi>Eph.</hi> 5.8. 1 <hi>Theſ.</hi> 5.4,5,6. &amp;c. <hi>Eph.</hi> 4.17,20,21,22,23. 1 <hi>Cor.</hi> 6.20. 2 <hi>Cor.</hi> 6.18. <hi>&amp;</hi> 7.1.]</p>
+            <p>Q. <hi>What rule muſt the Saints walk by in their obedience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the Ten Commandments, or the Moral Law of God; as it appears <hi>a</hi> to be the mind, and is in <hi>b</hi> the hand of Jeſus Chriſt. [a <hi>Mat.</hi> 5.19. b <gap reason="illegible: omitted in print" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>]</p>
+            <p>Q. <hi>How do you prove that the Moral Law of God ought to be a rule of life to believers under the Goſpel?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I prove it by the Doctrine of the Goſpel it ſelf, where the Law is not <hi>c</hi> ab<g ref="char:EOLhyphen"/>rogated, (as a Rule) but <hi>d</hi> confirmed by Chriſt and <hi>e</hi> his Apoſtles, who do <hi>f</hi> com<g ref="char:EOLhyphen"/>mand the ſame duties, and forbid <hi>g</hi> the ſame ſins which the Law doth, and the Goſpel doth preſs us to aſpire after con<g ref="char:EOLhyphen"/>for<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ity to the Law, both in <hi>h</hi> our affecti<g ref="char:EOLhyphen"/>ons, and <hi>i</hi> actions, and declares the breach of it to be <hi>k</hi> ſin. [c <hi>Mat.</hi> 5.17,18. d <hi>Mat.</hi> 5.19. e <hi>Rom.</hi> 3.31. f <hi>Eph.</hi> 6.1. <hi>Rom.</hi> 13.9,10. g <hi>Rom.</hi> 13.9. 1 <hi>Theſ.</hi> 4.3.
+<pb n="30" facs="tcp:184867:16"/> h <hi>Rom.</hi> 7.22,25. i <hi>Pſal.</hi> 119.4,5,6. k <hi>Rom.</hi> 4.15. 1 <hi>John</hi> 3.4.]</p>
+            <p>Q. <hi>What ought to be a believers utmoſt end in all his duties and performances?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Glory of <hi>l</hi> God, [l <hi>Prov.</hi> 16.4. 1 <hi>Cor.</hi> 10.31. 1 <hi>Pet.</hi> 4.10,11.]</p>
+            <p>Q. <hi>You ſaid before (as I remember) that the Goſpel is Gods ordinary means to work faith, and to bring Chriſt and the ſoul together; but when men are once in Chriſt, are they not a<g ref="char:EOLhyphen"/>bove the uſe of this, and of all other Ordinan<g ref="char:EOLhyphen"/>ces?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No: For as God is pleaſed to make uſe of Ordinances to <hi>m</hi> convert Sinners, ſo is he pleaſed by the ſame means to <hi>n</hi> build up Saints, both to their <hi>o</hi> Comforts, and <hi>p</hi> Duties; to which purpoſe his Ordi<g ref="char:EOLhyphen"/>nances ſhall continue in his Church <hi>q</hi> to the end of the world. [m <hi>Rom.</hi> 10.17. 1 <hi>Cor.</hi> 1.21. n <hi>Epheſ.</hi> 4.11,12. <hi>Acts</hi> 20.32. o <hi>Rom.</hi> 15.4. p 2 <hi>Tim.</hi> 3.16. q <hi>Eph.</hi> 4.13. <hi>Mat.</hi> 28.20.]</p>
+            <p>Q. <hi>What Ordinance is a believer eſpecially to wait upon God in, for his building up and confirmation in Faith, and other Gra<g ref="char:EOLhyphen"/>ces?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A believer is to wait upon God in <hi>r</hi> Hearing, and ſ Reading his holy Word, in <hi>t</hi> Private, and <hi>u</hi> Publique Prayer, in
+<pb n="31" facs="tcp:184867:16"/> the uſe of thoſe Sacraments which are of * Chriſts inſtitution; and in <hi>x</hi> Holy con<g ref="char:EOLhyphen"/>ference with ſuch as are Godly wiſe. [r 1 <hi>Theſſ.</hi> 5.20. ſ <hi>John</hi> 5.39. t <hi>Matt.</hi> 6.6. u <hi>Acts</hi> 16.13. <hi>Acts</hi> 1.4. * <hi>Mark</hi> 16.16. <hi>Luke</hi> 22.19,20. x <hi>Luke</hi> 24.14,15. <hi>Mal.</hi> 3.16.]</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
